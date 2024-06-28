@@ -1,3 +1,6 @@
+# system
+.DS_Store
+
 # vim
 [._]*.s[a-v][a-z]
 [._]*.sw[a-p]
@@ -12,3 +15,4 @@ Sessionx.vim
 
 # jupyter
 .ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
