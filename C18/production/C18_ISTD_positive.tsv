@@ -1,8 +1,8 @@
-compound_name	inchi_key	adduct	mz	rt_peak	rt_min	rt_max	mz_tolerance	polarity	identification_notes	classes	pathways	standard_source
-phenylalanine (unlabeled)	COLNVLDHVKWLRT-QMMMGPOBSA-N	[M+H]+	166.0862786	1.452953555	1.252953555	1.652953555		positive				
-phenylalanine (U - 13C, 15N)	COLNVLDHVKWLRT-CMLFETTRSA-N	[M+H]+	176.11348	1.452953555	1.252953555	1.652953555		positive				
-abmba (unlabeled)	LCMZECCEEOQWLQ-UHFFFAOYSA-N	[M+H]+	229.9811165	4.7	4.5	4.9		positive				
-tryptophan (unlabeled)	QIVBCDIJIAJPQS-SECBINFHSA-N	[M+H]+	205.0971776	2.200266822	2.000266822	2.400266822		positive				
-tryptophan (U - 13C, 15N)	QIVBCDIJIAJPQS-HNEHNLBWSA-N	[M+H]+	218.12812	2.200266822	2.000266822	2.400266822		positive				
-inosine (unlabeled)	UGQMRVRMYYASKQ-KQYNXXCUSA-N	[M+H]+	269.09904	1.02	0.72	1.32		positive				
-inosine (U - 15N)	UGQMRVRMYYASKQ-SHKQESLVSA-N	[M+H]+	273.07618	1.02	0.72	1.32		positive				
+compound_name	inchi_key	adduct	mz	rt_peak	rt_min	rt_max	mz_tolerance	polarity	identification_notes	classes	pathways	source	tags
+phenylalanine (unlabeled)	COLNVLDHVKWLRT-QMMMGPOBSA-N	[M+H]+	166.0862786	1.452953555	1.252953555	1.652953555		positive					
+phenylalanine (U - 13C, 15N)	COLNVLDHVKWLRT-CMLFETTRSA-N	[M+H]+	176.11348	1.452953555	1.252953555	1.652953555		positive					
+abmba (unlabeled)	LCMZECCEEOQWLQ-UHFFFAOYSA-N	[M+H]+	229.9811165	4.7	4.5	4.9		positive					
+tryptophan (unlabeled)	QIVBCDIJIAJPQS-SECBINFHSA-N	[M+H]+	205.0971776	2.200266822	2.000266822	2.400266822		positive					
+tryptophan (U - 13C, 15N)	QIVBCDIJIAJPQS-HNEHNLBWSA-N	[M+H]+	218.12812	2.200266822	2.000266822	2.400266822		positive					
+inosine (unlabeled)	UGQMRVRMYYASKQ-KQYNXXCUSA-N	[M+H]+	269.09904	1.02	0.72	1.32		positive					
+inosine (U - 15N)	UGQMRVRMYYASKQ-SHKQESLVSA-N	[M+H]+	273.07618	1.02	0.72	1.32		positive					
